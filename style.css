@@ -9,7 +9,7 @@
 .box-container{
     display: flex;
     color: white;
-    background-color: #131313;
+    background-image: linear-gradient(to left, rgb(253, 195, 205), rgb(123, 255, 251));
     width: 100vw;
     height: 100vh;
     justify-content: center;
