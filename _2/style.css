@@ -145,3 +145,19 @@ body{
 .links a:nth-child(2){
     color: #45f3ff;
 }
+
+input[type="submit"]{
+    border: none;
+    outline: none;
+    background-color: #45f3ff;
+    padding: 11px 25px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+input[type="submit"]:active{
+    opacity: 0.8;
+}
