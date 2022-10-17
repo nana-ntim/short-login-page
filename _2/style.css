@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 *{
     box-sizing: border-box;
     padding: 0;
@@ -83,6 +85,7 @@ body{
 }
 
 .inputBox input{
+    font-family: 'Montserrat', sans-serif;
     position: relative;
     width: 100%;
     padding: 20px 10px 10px;
@@ -90,7 +93,7 @@ body{
     border: none;
     outline: none;
     color: #23242a;
-    font-size: 1em;
+    font-size: 15px;
     letter-spacing: 0.05em;
     z-index: 10;
 }
